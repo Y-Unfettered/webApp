@@ -151,7 +151,6 @@ export default {
     },
     showDetail(food) {
       this.selectFood = food;
-
       this.$refs.foodView.showView();
     }
   },
