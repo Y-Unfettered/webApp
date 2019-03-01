@@ -65,7 +65,6 @@ import Vue from 'vue'
 	z-index: -1;
 }
 
-
 .cartcontrol .cart-count{
 	display: inline-block;
 	width: 25px;
