@@ -46,7 +46,7 @@
 					</div>
 
 					<ul class="rating-content" v-if="food.rating">
-						<li v-for="comment in food.rating.comment_list" class="comment-item">
+						<li v-for="comment in food.rating.comment_list" :key="comment.index" class="comment-item">
 							<div class="comment-header">
 								<img :src="comment.user_icon" v-if="comment.user_icon" />
 								<img src="./anonymity.png" v-if="!comment.user_icon" />
