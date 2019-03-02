@@ -5,7 +5,9 @@
     <!-- navigation -->
     <app-nav :commentNum="commentNum"></app-nav>
     <!-- content -->
-    <router-view></router-view>
+    <keep-alive>
+      <router-view></router-view>
+    </keep-alive>
   </div>
 </template>
 
