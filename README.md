@@ -23,6 +23,6 @@
 
 ## 效果图
 
-![美团首页](webApp/src/assets/img/MeiTuanHome.jpg '美团首页')
-![美团评价](./webApp/src/assets/img/MeiTuanEvaluate.jpg '美团评价')
-![美团商家](./webApp/src/assets/img/MeiTuanBusiness.jpg '美团商家')
+![美团首页](./MeiTuanHome.jpg '美团首页')
+![美团评价](./MeiTuanEvaluate.jpg '美团评价')
+![美团商家](./MeiTuanBusiness.jpg '美团商家')
